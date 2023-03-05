@@ -103,16 +103,18 @@ p {
 
 .main-sec-2-content {
     display: flex;
+    margin: 0px 50px;
 }
 
 .main-sec-2-content-item {
     display: flex;
     flex-direction: column;
+    margin: 0px 20px 0px 20px;
 }
 
 .placeholder {
-    width: 20px;
-    height: 20px;
+    width: 200px;
+    height: 200px;
     flex: 1 1 auto;
     border: 15px #3882F6;
     background-color: #1F2937;
